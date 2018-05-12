@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '34791'
     url: http://www.gutenberg.org/2009/agents/34791
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30746#The-Last-Straw
 gutenberg_issued: '2009-12-23'
 gutenberg_type: Text
 identifiers:
